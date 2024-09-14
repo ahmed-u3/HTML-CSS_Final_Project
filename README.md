@@ -20,6 +20,7 @@ The project contains three main pages:
 - Usage of semantic HTML tags.
 
 ### Project Structure
+```
 /project-root
 │
 ├── css/              # Folder for CSS files
@@ -44,3 +45,4 @@ The project contains three main pages:
 │   ├── ourwork.html  # Our Work page
 │
 │── index.html    # Homepage
+```
